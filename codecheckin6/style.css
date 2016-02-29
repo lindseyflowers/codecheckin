@@ -4,6 +4,12 @@
 
 
 body {background-color: #FFEBCD;}
+
 P {text-align:center; color: black; font-family: 'Source Sans Pro', sans-serif;}
-h1 {text-align: center; color:brown; font-family: 'Amatic SC', cursive;}
-h2,h3 {text-align: center; color: Coral; font-family: 'Loved by the King', cursive;}
+h1 {text-align: center; color:brown; font-family: 'Amatic SC', cursive; border-color: brown }
+h2, h3{text-align: center; color: Coral; font-family: 'Loved by the King', cursive;}
+#wrapper{
+	Width: 80%
+	Height: 80%
+	Margin: 0 auto;
+  Border: 1 px coral;}
