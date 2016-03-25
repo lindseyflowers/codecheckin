@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
 
 body {background-color: snow;}
-P {text-align:left; color: black; font-family: 'Source Sans Pro', sans-serif;}
+P {text-align:left; color: black; font-family: 'Source Sans Pro', sans-serif; font-size: 60;}
 h1 {text-align: center; color: DarkGreen; font-family: 'Loved by the King', cursive;}
 h2 {text-align: center; color: Coral; font-family: 'Loved by the King', cursive;}
 #navigationbar {text-align: center;font-family: 'Source Sans Pro', sans-serif;}
